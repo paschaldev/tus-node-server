@@ -38,3 +38,4 @@ files/
 # Keyfile will be decrypted from keyfile.json.enc by travis
 # https://docs.travis-ci.com/user/encrypting-files/
 test/keyfile.json
+config.bat
